@@ -1,11 +1,11 @@
 # Customer-Sales-Data-Cleaning-Analysis-Excel-
 This project focuses on cleaning and transforming a raw customer sales dataset into a structured format suitable for analysis.
 The dataset contained multiple inconsistencies such as missing values, duplicate records, and formatting issues, which were resolved using Excel data cleaning techniques.
-🛠️ Tools Used
+  Tools Used
 • Microsoft Excel
 • Pivot Tables
 • Data Cleaning Functions (TRIM, PROPER, IF, AVERAGE)
-🔧 Data Cleaning Process
+  Data Cleaning Process
 • Removed duplicate records
 • Standardized text fields (names, regions)
 • Handled missing values in key columns
